@@ -1,7 +1,8 @@
 <h1 align="center">HI👋, I am Glen Fonceca</h1>
+<h4 align="center">Exploring the World of Code, One Concept at a Time</h4>
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="15" />
@@ -41,7 +42,7 @@
 </div>
 
 ###
-
+<h3 align="left">📬 Connect with me:</h3>
 <div align="center">
   <a href="https://in.linkedin.com/in/glen-fonceca-bb630b29a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -49,7 +50,7 @@
 </div>
 
 ###
-
+<h3>📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GlenFonceca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=GlenFonceca&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
