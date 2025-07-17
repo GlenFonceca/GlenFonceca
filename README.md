@@ -1,7 +1,10 @@
 <h1 align="center">HI👋, I am Glen Fonceca</h1>
 <h4 align="center">Exploring the World of Code, One Concept at a Time</h4>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGlenFonceca%2FGlenFonceca%2F&label=VISITORS&countColor=%23007BFF" />
+  <p></p>
+</div>
 
-###
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
