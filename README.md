@@ -6,49 +6,66 @@
 </div>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
+
+<!-- Line 1: Java + JavaScript + MERN Stack -->
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
 </div>
 
-###
+<br/>
 
-<div align="center" >
+<!-- Line 2: TypeScript, Tailwind, Firebase, and Other Languages -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
 </div>
+
+<br/>
+
+<!-- Line 3: Developer Tools -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
+</div>
+
 
 ###
 <h3 align="left">📬 Connect with me:</h3>
